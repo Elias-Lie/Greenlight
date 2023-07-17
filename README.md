@@ -2,4 +2,5 @@
 
 This is the project from the Let's Go further Book by Alex Edwards.
 
-page: 68
+Current Progress
+- page: 68
